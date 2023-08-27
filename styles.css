@@ -20,7 +20,8 @@ html {
 }
 
 body {
-  background-color:  #1e1e1e;
+  background: linear-gradient(90deg, #1e1e1e 50%, #252525 50%);
+
 }
 
 h1 {
